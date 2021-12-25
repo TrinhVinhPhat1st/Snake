@@ -1,2 +1,2 @@
 # Snake
-First ame
+First game
